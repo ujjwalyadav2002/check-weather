@@ -1,6 +1,6 @@
 <table>
  <tr>
-    <th>Pproject</th>
+    <th>project</th>
     <th>check-weather</th>
     
   </tr>
