@@ -13,10 +13,14 @@
 <hr>
 <h3><b>Features</b></h3>
 
-<p>• This project uses HTML, CSS, JavaScript and Weather API to fulfill the objective. <br>• This Application provides accurate
-and real-time weather information to users. while incorporating user-friendly features and an intuitive interface.
-<br>• The app integrates with a weather API  to fetch real-time weather information, including temperature, humidity, wind speed, and conditions.<br>
-</p>
+ <ul>
+  <li>This project uses HTML, CSS, JavaScript and Weather API to fulfill the objective. </li>
+  <li>This Application provides accurate
+and real-time weather information to users. while incorporating user-friendly features and an intuitive interface.</li>
+  <li>The app integrates with a weather API  to fetch real-time weather information, including temperature, humidity, wind speed, and conditions.
+  <li>Utilized responsive design to ensure compatibility across all devices</li>
+</ul>
+
 
 <hr>
 <h3>Desktop View</h3>
