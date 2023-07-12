@@ -18,7 +18,7 @@
   <li>This Application provides accurate
 and real-time weather information to users. while incorporating user-friendly features and an intuitive interface.</li>
   <li>The app integrates with a weather API  to fetch real-time weather information, including temperature, humidity, wind speed, and conditions.
-  <li>Utilized responsive design to ensure compatibility across all devices</li>
+  <li>Utilized responsive design to ensure compatibility across all devices.</li>
 </ul>
 
 
