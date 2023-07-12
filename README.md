@@ -34,12 +34,12 @@ and real-time weather information to users. while incorporating user-friendly fe
 <hr>
 
 
-![WhatsApp Image 2023-07-12 at 4 34 55 AM (1)](https://github.com/ujjwalyadav2002/check-weather/assets/130239604/587312dd-1210-4405-9e67-d886fcc6b751)
-
-![WhatsApp Image 2023-07-12 at 4 34 55 AM](https://github.com/ujjwalyadav2002/check-weather/assets/130239604/5a89e10e-a3df-4014-b24b-552e7aa3763a)
-
-![WhatsApp Image 2023-07-12 at 4 51 56 AM (1)](https://github.com/ujjwalyadav2002/check-weather/assets/130239604/6fd0fe48-9733-4bb4-92e5-b02f46130624)
-
-![WhatsApp Image 2023-07-12 at 4 51 56 AM](https://github.com/ujjwalyadav2002/check-weather/assets/130239604/0a1d30c5-50ad-4674-beb6-b627237d8c81)
 
 
+<img width="230" height="450" alt="Screenshot 2023-07-12 at 5 18 50 AM" src="https://github.com/ujjwalyadav2002/check-weather/assets/130239604/587312dd-1210-4405-9e67-d886fcc6b751">
+
+<img width="230" height="450" alt="Screenshot 2023-07-12 at 5 18 50 AM" src="https://github.com/ujjwalyadav2002/check-weather/assets/130239604/5a89e10e-a3df-4014-b24b-552e7aa3763a">
+
+<img width="230" height="450" alt="Screenshot 2023-07-12 at 5 18 50 AM" src="https://github.com/ujjwalyadav2002/check-weather/assets/130239604/6fd0fe48-9733-4bb4-92e5-b02f46130624">
+
+<img width="230" height="450" alt="Screenshot 2023-07-12 at 5 18 50 AM" src="https://github.com/ujjwalyadav2002/check-weather/assets/130239604/0a1d30c5-50ad-4674-beb6-b627237d8c81">
